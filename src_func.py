@@ -1,5 +1,12 @@
 def str_upper(string):
     """
-    there should be DOKSTRING
+    all letters upper
     """
     return string.upper()
+
+
+def str_title(string):
+    """
+    first letter upper
+    """
+    return string.title()
