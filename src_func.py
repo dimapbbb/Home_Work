@@ -9,4 +9,5 @@ def str_title(string):
     """
     first letter upper
     """
+    # bug was here
     return string.title()
